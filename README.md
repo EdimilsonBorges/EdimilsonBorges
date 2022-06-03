@@ -8,6 +8,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JAVA" height="30" width="40" title="JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="ANDROID" height="30" width="40" title="ANDROID" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="C SHARP" height="30" width="40" title="C SHARP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="UNITY" height="30" width="40" title="UNITY" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
