@@ -1,10 +1,11 @@
 # Olá, eu sou Edimilson Borges.
 #### Seja Bem-vindo(a)
 Entrei na área de programação em 2017, por curiosidade em saber como os sistemas funcionavam, comecei a estudar programação didaticamente, foi muito difício pra mim no início, mais isso fez com que eu desenvolvesse um aprendizado rápido.
+
 <div style align="center">
   <a href="https://github.com/EdimilsonBorges">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimilsonBorges&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=discussions_started,prs_merged,prs_merged_percentage"/>
+  <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimilsonBorges&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Habilidades
