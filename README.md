@@ -1,6 +1,6 @@
 # Olá, eu sou Edimilson Borges.
 #### Seja Bem-vindo(a)
-Entrei na área de programação em 2017, por curiosidade em saber como os sistemas funcionavam, comecei a estudar programação didaticamente, foi muito difício pra mim no início, mais isso fez com que eu desenvolvesse um aprendizado rápido.
+Entrei na área de programação por curiosidade em saber como os sistemas funcionavam, comecei a estudar programação didaticamente, foi muito difício pra mim no início, mais isso fez com que eu desenvolvesse um aprendizado rápido.
 
 <div style align="center">
   <a href="https://github.com/EdimilsonBorges">   
