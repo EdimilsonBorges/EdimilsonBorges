@@ -13,8 +13,8 @@ Entrei na área de programação por curiosidade em saber como os sistemas funci
 <div style align="center" display="block"><br>
   <img align="center" alt="JAVA" height="30" width="40" title="JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">Java
   <img align="center" alt="ANDROID" height="30" width="40" title="ANDROID" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">Android 
-  <img align="center" alt="C SHARP" height="30" width="40" title="C SHARP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">C Sharp
-  <img align="center" alt="UNITY" height="30" width="40" title="UNITY" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">Unity
+  <img align="center" alt="TYPESCRIPT" height="30" width="40" title="TYPESCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">TypeScript
+  <img align="center" alt="ANGULAR" height="30" width="40" title="ANGULAR" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">Angular
   <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">PHP
   <img align="center" alt="MYSQL" height="30" width="40" title="MY SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">My SQL
    <img align="center" alt="JAVASCRIPT" height="30" width="40" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">Java Script
