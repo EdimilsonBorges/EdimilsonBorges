@@ -1,6 +1,6 @@
 # Olá, eu sou Edimilson Borges.
 #### Seja Bem-vindo(a)
-Entrei na área de programação por curiosidade em saber como os sistemas funcionavam, comecei a estudar programação didaticamente, foi muito difício pra mim no início, mais isso fez com que eu desenvolvesse um aprendizado rápido.
+Sou um desenvolvedor Full Stack apaixonado por criar soluções web. Minhas habilidades incluem a criação de interfaces de usuário responsivas. Estou constantemente atualizando minhas habilidades para me manter atualizado com as tendências tecnológicas, estou ansioso para enfrentar desafios e colaborar em projetos. Minha paixão pelo desenvolvimento web e mobile me impulsiona a buscar soluções criativas e a entregar produtos de alta qualidade que atendam às necessidades dos clientes e dos usuários finais.
 
 <div style align="center">
   <a href="https://github.com/EdimilsonBorges">   
