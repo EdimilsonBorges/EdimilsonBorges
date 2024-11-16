@@ -21,6 +21,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web. Minhas habi
    <img align="center" alt="JAVASCRIPT" height="30" width="40" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">Java Script
   <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
   <img align="center" alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
+  <img align="center" alt="DOCKER" height="30" width="40" title="DOCKER" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">DOCKER
 </div>
   
   ## Siga-me
