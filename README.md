@@ -16,6 +16,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web. Minhas habi
   <img align="center" alt="ANDROID" height="30" width="40" title="ANDROID" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">Android 
   <img align="center" alt="TYPESCRIPT" height="30" width="40" title="TYPESCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">TypeScript
   <img align="center" alt="ANGULAR" height="30" width="40" title="ANGULAR" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">Angular
+  <img align="center" alt="REACT" height="30" width="40" title="REACT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
   <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">PHP
   <img align="center" alt="MYSQL" height="30" width="40" title="MY SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">My SQL
    <img align="center" alt="JAVASCRIPT" height="30" width="40" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">Java Script
